@@ -71,14 +71,14 @@ const config: DocsThemeConfig = {
         <meta name="twitter:url" content={url} />
         <meta
           property="twitter:image"
-          content="https://lucy-docs.vercel.app/opengraph-image.jpg"
+          content="https://lucy-docs.vercel.app/og-github.png"
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content={url} />
         <meta property="og:description" content={description} />
         <meta
           property="og:image:url"
-          content="https://lucy-docs.vercel.app/opengraph-image.jpg"
+          content="https://lucy-docs.vercel.app/og-github.png"
         />
         <meta name="theme-color" content="#212221" />
       </>
